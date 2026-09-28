@@ -95,7 +95,7 @@ The following pin configuration is used in the project source code:
 | LCD D7    | D2          | LCD data                |
 | GSM RX/TX | D8, D7      | Serial communication    |
 
-These assignments are taken from the project's source code.
+
 
 ## Working Principle
 
