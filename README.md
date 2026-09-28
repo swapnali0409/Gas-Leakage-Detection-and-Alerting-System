@@ -475,6 +475,9 @@ Gas-Leakage-Detection/
 └── Documentation/
     └── project_report.pdf
 ```
+## Project Demonstration 
+
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-28 at 7 45 33 AM" src="https://github.com/user-attachments/assets/5440dd3f-1a1c-4130-987e-e3a6b95a6a33" />
 
 ## Team
 
