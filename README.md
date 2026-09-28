@@ -195,8 +195,6 @@ gsm.println("Gas leak detected!");
 gsm.println((char)26);
 ```
 
-The original report's source code contains a phone number; it is intentionally replaced here with `<PHONE_NUMBER>` so you do not publish a personal phone number on GitHub.
-
 ### 5. Preventing Repeated SMS
 
 The project uses an `alarmTriggered` flag:
